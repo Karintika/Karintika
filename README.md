@@ -2,7 +2,7 @@
 - 👀 Sou professora do Colégio Civico Militar Padre Wislinski.
 - 🌱 Leciono a disciplina de Pensamento Computacional e Matemática.
 - 💞️ Tenho turmas do sexto, sétimo, oitavo, nono e primeiros anos.
-- 📫 
+- 📫 Você pode entrar em contato comigo pelo email: karin.meyer@escola.pr.gov.br
 
 <!---
 Karintika/Karintika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
