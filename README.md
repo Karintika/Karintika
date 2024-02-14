@@ -1,7 +1,7 @@
 - 👋 Olá, meu nome é Karin.
-- 👀 Sou professora do Colégio Estadual Pilar Maturana.
+- 👀 Sou professora do Colégio Civico Militar Padre Wislinski.
 - 🌱 Leciono a disciplina de Pensamento Computacional e Matemática.
-- 💞️ Tenho turmas do sexto, oitavo, nono e primeiros anos.
+- 💞️ Tenho turmas do sexto, sétimo, oitavo, nono e primeiros anos.
 - 📫 
 
 <!---
